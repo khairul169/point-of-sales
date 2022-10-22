@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "name": "Biasa",
+    "price": 12000,
+    "createdAt": "2022-10-22T19:58:47.311Z",
+    "deletedAt": ""
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "name": "Biasa",
+    "price": 12000,
+    "createdAt": "2022-10-22T19:58:47.312Z",
+    "deletedAt": ""
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "name": "Hangat",
+    "price": 4000,
+    "createdAt": "2022-10-22T19:58:47.313Z",
+    "deletedAt": ""
+  },
+  {
+    "id": 4,
+    "productId": 1,
+    "name": "Jumbo",
+    "price": 15000,
+    "createdAt": "2022-10-22T19:58:47.313Z",
+    "deletedAt": ""
+  },
+  {
+    "id": 5,
+    "productId": 2,
+    "name": "Bakso",
+    "price": 15000,
+    "createdAt": "2022-10-22T19:58:47.314Z",
+    "deletedAt": ""
+  },
+  {
+    "id": 6,
+    "productId": 3,
+    "name": "Dingin",
+    "price": 5000,
+    "createdAt": "2022-10-22T19:58:47.315Z",
+    "deletedAt": ""
+  }
+]
