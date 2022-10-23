@@ -1,6 +1,6 @@
 import { ChakraProvider } from "@chakra-ui/react";
-import { RouterProvider, Route } from "react-router-dom";
-import router from "./router";
+import { RouterProvider } from "react-router-dom";
+import router from "./pages/router";
 
 const App = () => {
   return (
